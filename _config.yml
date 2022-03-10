@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Muhammad-Ihsan> <Al-Hafiz>
-  email:               <ihsanalhafiz28@gmail.com>
+  name:                <firstname> <lastname>
+  email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -55,7 +55,10 @@ menu:
     url:               /example/
   - title:             Documentation
     url:               /docs/
-
+  - title:             Project
+    url:               /project/
+  - title:             Contact
+    url:               /contact/
 
 
 # Add links to the footer.
@@ -138,10 +141,10 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-   - scope:
-       type:            posts
-     values:
-       comments:        true
+  # - scope:
+  #     type:            posts
+  #   values:
+  #     comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:

@@ -42,7 +42,7 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Muhammad Ihsan> <Al Hafiz>
+  name:                <Muhammad-Ihsan> <Al-Hafiz>
   email:               <ihsanalhafiz28@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -55,10 +55,7 @@ menu:
     url:               /example/
   - title:             Documentation
     url:               /docs/
-  - title:             Project
-    url:               /project/
-  - title:             Contact
-    url:               /contact/
+
 
 
 # Add links to the footer.

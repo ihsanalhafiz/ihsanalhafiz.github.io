@@ -3,15 +3,16 @@
 layout: grid
 
 # The title of the tag's page.
-title: Example
+title: AWS
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: aws
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  General information about several aspects of AWS - Amazon Web Services.
+  Strongly based on [Stephane Maarek's AWS Courses @ Udemy](https://www.udemy.com/courses/search/?courseLabel=4704&courseLabel=24774&q=stephane+maarek&sort=relevance&src=sac), along with
+  personal experience.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true

@@ -8,11 +8,11 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-#gem "jekyll", "~> 4.1"
-gem "jekyll", "~> 3.9.0"
+gem "jekyll", "~> 4.1"
+#gem "jekyll", "~> 3.9.0"
 
-#gem "jekyll-theme-hydejack", "~> 9.1"
-gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
+gem "jekyll-theme-hydejack", "~> 9.1"
+#gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
@@ -47,8 +47,8 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache", git: "https://github.com/hydecorp/jekyll-include-cache"
 
-  gem "github-pages"
-  gem "github-pages-health-check"
+ # gem "github-pages"
+ # gem "github-pages-health-check"
 
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"

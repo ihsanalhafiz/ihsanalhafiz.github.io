@@ -6,7 +6,7 @@ encoding: UTF-8
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://daniel.arneam.com
+url:                   https://ihsanalhafiz.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -25,18 +25,18 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Daniel's
+title:                 Blog under the construction
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Daniel's is a website about my thoughts in the software engineering field.
+  I am embedded system engineer. Currently, studying for master programme at KTH Royal Institute of Technology
 
 # A shorter description for the sidebar.
-tagline:               software engineering
+tagline:               Embedded systems engineer
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [embedded system, microcontroller, electronics design, stm32, FPGA]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -45,7 +45,7 @@ logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  picture:  /assets/img/me.png
+  picture:  /assets/img/me.jpg
   # Used by `jekyll-feed`:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
@@ -60,12 +60,12 @@ menu:
     url:               /resume/
   - title:             Projects
     url:               /projects/
-  - title:             Kafka
-    url:               /blog/kafka/
-  - title:             AWS
-    url:               /blog/aws/
-  - title:             SmartHome (pt_BR)
-    url:               /blog/smarthome/
+  #- title:             Kafka
+  #  url:               /blog/kafka/
+  #- title:             AWS
+  #  url:               /blog/aws/
+  #- title:             SmartHome (pt_BR)
+  #  url:               /blog/smarthome/
   #- title:             Documentation
   #  url:               /docs/
 
@@ -101,7 +101,7 @@ paginate_path:         /blog/:num/
 # ----------------------------------------------------------------------------------------
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg-04.jpg
+accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

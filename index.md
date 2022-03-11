@@ -4,7 +4,7 @@ title: Welcome to my blog
 sitemap: false
 ---
 
-![Front photo](/assets/img/picture-front.jpg)
+![Front photo](/assets/img/picture-front.png)
 
 Hi, my name is Muhammad Ihsan Al Hafiz. Usually people call me Ihsan or Hafiz. Currently, i am studying on master programme in embedded systems at KTH Royal Institute of Technology, Sweden. I graduated from bachelor degree (engineering physics) at Universitas Gadjah Mada, Indonesia at 2017. After that, I worked as electronics engineer at the Agency for assessment and application of technology (BPPT) that currently change to BRIN Indonesia. I started my master degree study at 2021.
 

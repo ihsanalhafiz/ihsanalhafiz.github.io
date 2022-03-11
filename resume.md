@@ -3,8 +3,7 @@ layout: resume
 title: Résumé
 description: >
   This is the résumé page of Muhammad Ihsan Al Hafiz. Here you'll find
-  information about my work experience as software engineer over the past
-  twenty years, along with my education degrees, certifications, publications,
+  information about my work experience as an embedded system engineer, along with my education degrees, certifications, publications,
   references from former colleagues, known languages, skills and interests.
 hide_description: false
 left_column:

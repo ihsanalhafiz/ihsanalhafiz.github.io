@@ -101,7 +101,7 @@ paginate_path:         /blog/:num/
 # ----------------------------------------------------------------------------------------
 
 #favicon
-#favicon: /assets/favicon.ico
+favicon: /assets/icons/favicon.ico
 apple_touch_icon: /assets/img/apple-touch-icon.png
 
 # Sidebar image and theme color of the site.

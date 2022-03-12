@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Muhammad Ihsan> <Al Hafiz>
+  name:              <ihsan> <AlHafiz>
   email:             <ihsanalhafiz28@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -15,7 +15,7 @@ author1:
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            /assets/img/me.jpg
-      2x:            https://via.placeholder.com/256x256
+      2x:            /assets/img/me.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

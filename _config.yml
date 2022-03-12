@@ -108,7 +108,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
-
+F
 defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
@@ -134,10 +134,10 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+   - scope:
+       type:            posts
+     values:
+       comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -172,7 +172,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <username>
+disqus:                muhammad_ihsan_al_hafiz
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!

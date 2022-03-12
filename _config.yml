@@ -134,7 +134,7 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-   - scope:
+  - scope:
        type:            posts
      values:
        comments:        true
@@ -172,7 +172,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                muhammad_ihsan_al_hafiz
+disqus:                <muhammad_ihsan_al_hafiz>
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!

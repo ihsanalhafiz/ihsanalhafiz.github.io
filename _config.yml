@@ -82,6 +82,9 @@ paginate_path:         /:num/
 remote_theme: hydecorp/hydejack@v9
 
 
+favicon: /favicon.ico
+apple_touch_icon: /assets/img/logo.png
+
 # Customizaton
 # ----------------------------------------------------------------------------------------
  

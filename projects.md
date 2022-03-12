@@ -1,8 +1,17 @@
 ---
-layout: list
+layout: about
 title: Projects
 description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
-grouped: true
+  A boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
+hide_description: true
 ---
+
+# Current projects
+
+
+# Past projects
+
+## 1. Automatic Identification Systems (AIS) Class B
+
+## 2. Visible Light Communication

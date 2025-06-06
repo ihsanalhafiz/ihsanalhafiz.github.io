@@ -13,7 +13,7 @@ hide_description: true
 
 I’m **M Ihsan Al Hafiz** (Ihsan), a PhD researcher at **KTH Royal Institute of Technology** in Stockholm, Sweden, specializing in **hardware accelerators for neuromorphic computing**. With over **eight years of experience** in embedded systems, I design brain-inspired hardware to enable low-latency, energy-efficient AI from **IoT devices to cloud systems**.
 
-My passion lies at the intersection of **AI and hardware**, and my current research focuses on implementing spiking neural networks (SNNs) on **FPGAs** to enable real-time, sustainable intelligence at the edge.
+My passion lies at the intersection of **AI and hardware**, and my current research focuses on implementing Brain-Like Neural Network (BLNN) and spiking neural networks (SNNs) on **FPGAs** to enable real-time, sustainable intelligence at the edge.
 
 ---
 

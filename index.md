@@ -7,13 +7,18 @@ description: >
 hide_description: true
 ---
 
-![Front photo](/assets/img/picture-front.png)
+<div style="display: flex; align-items: center; gap: 2rem;">
+    <div style="flex: 0 0 300px;">
+        ![Front photo](/assets/img/profile_photo.jpg)
+    </div>
+    <div style="flex: 1;">
+        # 👨‍💻 About Me
 
-# 👨‍💻 About Me
+        I'm **Muhammad Ihsan Al Hafiz**, a PhD researcher at **KTH Royal Institute of Technology** in Stockholm, Sweden, specializing in **hardware accelerators for neuromorphic computing**. With over **eight years of experience** in embedded systems, I design brain-inspired hardware to enable low-latency, energy-efficient AI from **IoT devices to cloud systems**.
 
-I’m **Muhammad Ihsan Al Hafiz**, a PhD researcher at **KTH Royal Institute of Technology** in Stockholm, Sweden, specializing in **hardware accelerators for neuromorphic computing**. With over **eight years of experience** in embedded systems, I design brain-inspired hardware to enable low-latency, energy-efficient AI from **IoT devices to cloud systems**.
-
-My passion lies at the intersection of **AI and hardware**, and my current research focuses on implementing spiking neural networks (SNNs) on **FPGAs** to enable real-time, sustainable intelligence at the edge.
+        My passion lies at the intersection of **AI and hardware**, and my current research focuses on implementing spiking neural networks (SNNs) on **FPGAs** to enable real-time, sustainable intelligence at the edge.
+    </div>
+</div>
 
 ---
 
@@ -74,7 +79,7 @@ I aim to bridge the gap between bio-inspired AI models and reconfigurable hardwa
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/ihsanalhafiz)  
 - ✉️ ihsanalhafiz28@gmail.com  

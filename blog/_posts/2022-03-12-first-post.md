@@ -1,17 +1,13 @@
 ---
 layout: post
-title: First post
-image: 
-  path: /assets/img/blog/jeremy-bishop@0,5x.jpg
+title: Example Post
 description: >
-  description first post
+  This is a short placeholder post. Replace it with your own content.
 sitemap: false
 comments: true
 ---
 
-# first post heading
+# Example Heading
 
-## first post subheading
-
-first post content
+Example content goes here.
 

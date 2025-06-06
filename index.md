@@ -1,21 +1,15 @@
 ---
 layout: about
-title: Welcome to my blog
-image: /assets/img/blog/hydejack-9.jpg
+title: Welcome
+image: /assets/img/picture-front.png
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Personal site of Muhammad Ihsan Al Hafiz.
 hide_description: true
-comments: true
 ---
 
 ![Front photo](/assets/img/picture-front.png)
 
-Hi, my name is Muhammad Ihsan Al Hafiz. Usually people call me Ihsan or Hafiz. Currently, i am studying on master programme in embedded systems at KTH Royal Institute of Technology, Sweden. I graduated from bachelor degree (engineering physics) at Universitas Gadjah Mada, Indonesia at 2017. After that, I worked as electronics engineer at the Agency for assessment and application of technology (BPPT) that currently change to BRIN Indonesia. I started my master degree study at 2021.
+Hi, I'm Muhammad Ihsan Al Hafiz (Ihsan). I'm an embedded systems engineer and currently a master's student at KTH Royal Institute of Technology in Sweden. Previously I worked as an electronics engineer at BPPT (now BRIN) in Indonesia.
 
-I had several past projects that i want to share here. I also will update my latest activity or project in this blog. If you curious about me, you can check my resume or linkedIn profile. Feel free to contact me.
-
-### [blog still under construstion]
-
-You can navigate it through the menu to the left.
+On this site you'll find notes about my projects and an occasional blog post. Check out my [CV](/cv/) for a summary of my experience or reach out via the links in the sidebar.
 

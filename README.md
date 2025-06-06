@@ -1,20 +1,21 @@
-# Hydejack Starter Kit
+# Ihsan Alhafiz's Personal Website
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+Welcome to my personal website repository. This is where I share my thoughts, projects, and experiences.
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+## About
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+This is my personal website built with Jekyll. It serves as a platform for me to share my writing, showcase my projects, and connect with others in the tech community.
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+## Local Development
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+To run this website locally:
+
+1. Clone this repository
+2. Navigate to the project directory
+3. Run `bundle install` to install dependencies
+4. Start the local server with `bundle exec jekyll serve`
+5. Visit `http://localhost:4000` in your browser
+
+## Contact
+
+Feel free to reach out to me through the contact form on my website or connect with me on social media.

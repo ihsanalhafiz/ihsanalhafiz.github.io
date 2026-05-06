@@ -440,16 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-my-phd-in-hardware-accelerator-for-neuromorphic-computing-at-kth-royal-institute-of-technology-under-supervision-of-artur-podobas",
+          title: 'Started my PhD in Hardware Accelerator for Neuromorphic Computing at KTH Royal Institute...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-just-got-acceptance-paper-in-euro-par-conference-2026-for-the-paper-neuroring-scaling-spiking-neural-networks-via-multi-fpga-bidirectional-ring-topologies-and-stream-dataflow-architectures",
+          title: 'Just got acceptance paper in Euro-Par conference 2026 for the paper NeuroRing: Scaling...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

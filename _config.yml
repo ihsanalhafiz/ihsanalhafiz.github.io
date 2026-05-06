@@ -4,7 +4,7 @@
 
 title: M Ihsan Al Hafiz # the website title (if blank, full name will be used instead)
 first_name: M Ihsan
-middle_name: 
+middle_name: ""
 last_name: Al Hafiz
 contact_note: >
   Feel free to reach out to me via email at <a href="mailto:miahafiz@kth.se
@@ -119,10 +119,6 @@ giscus:
   light_theme: light # name of the light color scheme (preferred works well with al-folio light mode)
   emit_metadata: 0
   lang: en
-
-# Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.kth.se/'>KTH Royal Institute of Technology</a>. Stockholm. miahafiz@kth.se.
+subtitle: PhD at <a href='https://www.kth.se/'>KTH Royal Institute of Technology</a>. Stockholm. miahafiz@kth.se.
 
 profile:
   align: right

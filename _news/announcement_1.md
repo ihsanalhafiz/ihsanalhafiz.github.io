@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-04-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started my PhD in Hardware Accelerator for Neuromorphic Computing at KTH Royal Institute of Technology under supervision of Artur Podobas.

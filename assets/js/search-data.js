@@ -158,16 +158,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-is1500-computer-organization-and-components",
+          title: 'IS1500 Computer Organization and Components',
+          description: "Teaching assistant role for IS1500 Computer Organization and Components, supporting exercises, lab examination, and lab grading.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/teaching/is1500/";
+            },},{id: "teachings-is1500-computer-organization-and-components",
+          title: 'IS1500 Computer Organization and Components',
+          description: "Teaching assistant role for IS1500 Computer Organization and Components, supporting exercises, lab examination, and lab grading.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teaching/is1500/";
+            },},{id: "teachings-is2202-computer-systems-architecture",
+          title: 'IS2202 Computer Systems Architecture',
+          description: "Teaching assistant role for IS2202 Computer Systems Architecture, supporting lab examination and lab grading.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/is2202/";
+            },},{id: "teachings-is2202-computer-systems-architecture",
+          title: 'IS2202 Computer Systems Architecture',
+          description: "Teaching assistant role for IS2202 Computer Systems Architecture, supporting lab examination and lab grading.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teaching/is2202/";
             },},{
         id: 'social-cv',
         title: 'CV',

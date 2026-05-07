@@ -2,10 +2,14 @@
 layout: page
 ---
 <div class="course">
-  {% if page.instructor or page.term or page.location or page.time %}
+  {% if page.instructor or page.role or page.term or page.location or page.time %}
     <div class="course-info">
       {% if page.instructor %}
         <p><strong>Instructor:</strong> {{ page.instructor }}</p>
+      {% endif %}
+
+      {% if page.role %}
+        <p><strong>Role:</strong> {{ page.role }}</p>
       {% endif %}
 
       {% if page.term %}

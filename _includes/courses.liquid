@@ -20,6 +20,10 @@
               {% if course.instructor %}
                 <span class="course-instructor">{{ course.instructor }}</span>
               {% endif %}
+
+              {% if course.role %}
+                <span class="course-role">{{ course.role }}</span>
+              {% endif %}
             </div>
 
             {% if course.description %}

@@ -51,12 +51,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "Currently just myself :)",
+        },{id: "nav-supervision",
+          title: "Supervision",
+          description: "List of student thesis or project that i have been supervised",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/supervision/";
           },
         },{id: "post-play-with-always-comb-and-always-ff-in-systemverilog",
         

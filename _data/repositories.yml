@@ -6,3 +6,21 @@ repo_description_lines_max: 2
 github_repos:
   - ihsanalhafiz/NeuroRing
   - ihsanalhafiz/ZCU104-VitisFlow
+
+featured_repositories:
+  - name: NeuroRing
+    owner: ihsanalhafiz
+    url: https://github.com/ihsanalhafiz/NeuroRing
+    summary: Neuromorphic and hardware-oriented research code for experimenting with efficient neural computation.
+    topics:
+      - neuromorphic
+      - hardware
+      - research
+  - name: ZCU104-VitisFlow
+    owner: ihsanalhafiz
+    url: https://github.com/ihsanalhafiz/ZCU104-VitisFlow
+    summary: FPGA development flow notes and code for working with Xilinx ZCU104 and Vitis-based acceleration.
+    topics:
+      - FPGA
+      - Vitis
+      - ZCU104

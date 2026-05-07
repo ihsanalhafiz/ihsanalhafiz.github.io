@@ -113,51 +113,26 @@ ninja.data = [{
           section: "News",},{id: "news-just-got-acceptance-paper-in-euro-par-conference-2026-for-the-paper-neuroring-scaling-spiking-neural-networks-via-multi-fpga-bidirectional-ring-topologies-and-stream-dataflow-architectures",
           title: 'Just got acceptance paper in Euro-Par conference 2026 for the paper NeuroRing: Scaling...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-2018-2020-embedded-electronics-system-for-buoy-tsunami-early-warning-systems",
+          title: '(2018-2020) Embedded Electronics System for Buoy Tsunami Early Warning Systems',
+          description: "project of Indonesia Tsunami Early Warning Systems",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/2018_2020_buoytews/";
+            },},{id: "projects-2018-2020-embedded-system-of-ocean-bottom-unit-tsunami-early-warning-systems",
+          title: '(2018-2020) Embedded System of Ocean Bottom Unit Tsunami Early Warning Systems',
+          description: "Embedded electronics for an Ocean Bottom Unit in the Indonesia Tsunami Early Warning System",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/2018_2020_obutews/";
+            },},{id: "projects-2023-thesis-project-in-atlas-copco",
+          title: '(2023) Thesis Project in Atlas Copco',
+          description: "I created an implementation of bolt detection and visual-inertial localization algorithm for tightening tool on SoC FPGA",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/2023_thesisproject/";
+            },},{id: "projects-2024-2027-extra-brain-project",
+          title: '(2024-2027) EXTRA-BRAIN Project',
+          description: "European Project which my PhD become part of it",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/2024_2027_extrabrain/";
             },},{id: "teachings-is1500-computer-organization-and-components",
           title: 'IS1500 Computer Organization and Components',
           description: "Teaching assistant role for IS1500 Computer Organization and Components, supporting exercises, lab examination, and lab grading.",

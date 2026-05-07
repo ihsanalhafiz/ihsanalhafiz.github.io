@@ -1,1 +1,0 @@
-PhD in Hardware Accelerator for Neuromorphic Computing at KTH Sweden.
